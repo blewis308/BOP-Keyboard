@@ -60,7 +60,9 @@ Keeping on the same side as the diodes, set the female headers onto the pcb. Mak
 
 Flip the pcb over and solder the headers in place. **Make sure there are no shorts between pins.**
 
-Next, place the male headers onto the controller. The USB port should be facing up, leave the longer legs up as well. Using tape to hold them im place, flip the controller over and solder them in. Again, make sure there are no shorts between pins. Press the controller in to test fit, but remove for flashing and switches.
+Next, place the male headers onto the controller. The USB port should be facing up, leave the longer legs up as well. Using tape to hold them im place, flip the controller over and solder them in. Again, make sure there are no shorts between pins. 
+
+Press the controller in to test fit, but remove for flashing and switches.
 
 ![Image of controller](https://i.imgur.com/E2dh0vQ.jpg)
 
