@@ -16,7 +16,7 @@ BOP stands for Big Ortho Project, a 6 row by 20 column ortholinear keyboard runn
 ![Image of BOP](https://i.imgur.com/IlWnuaP.jpg)
 
 
-## [included](Included In the Box:)
+## Included in the Box:
 #### Diodes - About 130x (120 needed)
 ![Image of Diodes](https://i.imgur.com/OT6Wkdf.jpg)
 #### Standoffs + Screws - M3 Size (10x Standoffs and 20x Screws)
