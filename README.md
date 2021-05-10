@@ -41,7 +41,7 @@ BOP stands for Big Ortho Project, a 6 row by 20 column ortholinear keyboard runn
 #### Estimated Time: 2-3 hours
 [This is a really good video on how to solder smd diodes](https://youtu.be/Jpj3tilIaik?t=187). I recommend you watch this before soldering.
 
-Start by orienting the PCB so that you can read "Design by Fruitykeeb" straight on. Next, place a small amound of solder the pad opposite to the "K" on each of the diode locations. There are 120 to do.
+Start by orienting the PCB so that you can read "Design by Fruitykeeb" straight on. Next, place a small amound of solder the pad opposite to the "K" on each of the diode locations.
 
 ![Image of half pad](https://i.imgur.com/cNkuTjS.jpg)
 
