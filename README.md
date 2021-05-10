@@ -37,4 +37,7 @@ BOP stands for Big Ortho Project, a 6 row by 20 column ortholinear keyboard runn
 
 ### Step 1: Diodes
 #### Estimated Time: 2-3 hours
+Start by orienting the PCB so that you can read "Design by Fruitykeeb" straight on. Next, place a small amound of solder the pad opposite to the "K" on each of the diode locations. There are 120 to do.
+![Image of half pad](https://i.imgur.com/cNkuTjS.jpg)
 
+Next, using tweezers or something similar, grab one diode and heat the bit of solder you just placed. Once the solder starts to melt, slide the diode into position. *Make sure the line on the diode is facing the "K" on the footprint. If it is not, key presses will not register!*
