@@ -3,8 +3,8 @@
 BOP stands for Big Ortho Project, a 6 row by 20 column ortholinear keyboard running off of the Teensy++2.0 Controller.
 
 ## Jump to...
-  [What's included](#included-in-the-box:)
-  [Build Guide](#build-guide:)
+  [What's included](#included-in-the-box)
+  [Build Guide](#build-guide)
   
 ## REPO Contents:
 * Plate File in `.dxf` format, perfect for creating a 3D printed case from.
