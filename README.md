@@ -13,3 +13,4 @@ BOP stands for Big Ortho Project, a 6 row by 20 column ortholinear keyboard runn
 ![Image of BOP](https://i.imgur.com/DbjVdvV.jpg)
 ![Image of BOP](https://i.imgur.com/IlWnuaP.jpg)
 
+## Build Guide
