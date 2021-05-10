@@ -30,10 +30,12 @@ BOP stands for Big Ortho Project, a 6 row by 20 column ortholinear keyboard runn
 #### Rubber Feet - 8x Feet
 ![Image of Feet](https://i.imgur.com/31zdTMb.jpg)
 #### Controller - 1x Teensy++2.0 Micro Controller
+![Image of controller](https://i.imgur.com/d9FD5Eb.jpg)
 
 
 
 # Build Guide:
+## Total Estimated Time: 4-5 hours
 
 ### Step 1: Diodes
 #### Estimated Time: 2-3 hours
@@ -71,7 +73,7 @@ In the MCU dropdown, select the `at90usb1286` option. Plug in the Teensy++2.0 an
 
 Press the controller in and using Via and tweezers, bridge the contacts where the switches would be to test each key. 
 
-> If there is an issue where the last column spams the keys, there is a workaround detailed at the end.
+> If there is an issue where the last column spams the keys, there is a workaround detailed [here](#the-workaround).
 
 ### Step 4: Switches
 #### Estimated Time: 45 mins - 1 hour.
@@ -99,3 +101,12 @@ Using a screw driver, screw in the remaining screws and then place the rubber fe
 ### Step 6: Enjoy!
 
 Congratulations! You finished your BOP build! Add switches and start typing away!
+
+
+
+## The Workaround:
+If you have an issue with your board spamming the far right column of keys, use this workaround. 
+
+On the bottom side of the controller, solder a short between pins C6 and C7. In the `config.h` file, change the last item in the `MATRIX_COL_PINS` array from C7 to C6.
+
+Recompile the hex and reflash the MCU. This should fix the problem.
