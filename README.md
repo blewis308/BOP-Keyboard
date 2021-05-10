@@ -13,5 +13,21 @@ BOP stands for Big Ortho Project, a 6 row by 20 column ortholinear keyboard runn
 ![Image of BOP](https://i.imgur.com/DbjVdvV.jpg)
 ![Image of BOP](https://i.imgur.com/IlWnuaP.jpg)
 
+## Included In the Box:
+#### Diodes - About 130x (120 needed)
+![Image of Diodes](https://i.imgur.com/OT6Wkdf.jpg)
+#### Standoffs + Screws - M3 Size (10x Standoffs and 20x Screws)
+![Image of Standoffs](https://i.imgur.com/Eq6nieW.jpg)
+#### Controller Headers - 2x 20 pin male and female headers
+![Image of Headers](https://i.imgur.com/3377Pvh.jpg)
+#### Stabilizers - 3x 2u Stabilizers
+![Image of Stabilizers](https://i.imgur.com/qYNdEll.jpg)
+#### Rubber Feet - 8x Feet
+![Image of Feet](https://i.imgur.com/31zdTMb.jpg)
+#### Controller - 1x Teensy++2.0 Micro Controller
+
 ## Build Guide:
+
+### Step 1: Diodes
+#### Estimated Time: 2-3 hours
 
