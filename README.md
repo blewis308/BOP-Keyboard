@@ -112,3 +112,5 @@ If you have an issue with your board spamming the far right column of keys, use 
 On the bottom side of the controller, solder a short between pins C6 and C7. In the `config.h` file, change the last item in the `MATRIX_COL_PINS` array from C7 to C6.
 
 Recompile the hex and reflash the MCU. This should fix the problem.
+
+If this still does not work, clip the pins that go to ground from the micro controller.
