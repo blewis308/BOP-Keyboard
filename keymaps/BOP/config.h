@@ -1,11 +1,11 @@
-#ifndef CONFIG_H
-#define CONFIG_H
+
+#pragma once
 
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x6060
+#define VENDOR_ID       0x666B
+#define PRODUCT_ID      0x626F
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    fruitykeeb
 #define PRODUCT         bop
@@ -37,4 +37,5 @@
 /* prevent stuck modifiers */
 #define PREVENT_STUCK_MODIFIERS
 
-#endif
+/* Unicode select mode */
+#define UNICODE_SELECTED_MODES UC_MAC, UC_LNX, UC_WINC
