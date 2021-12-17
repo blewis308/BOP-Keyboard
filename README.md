@@ -39,6 +39,9 @@ BOP stands for Big Ortho Project, a 6 row by 20 column ortholinear keyboard runn
 # Build Guide:
 ## Total Estimated Time: 4-5 hours
 
+## Before you begin! 
+#### Please test your board, some boards have shown signs of multiple switches actuating at the same time or switches that are shorting out with nearby ones. You can test this by using a multimeter in continuity mode and test each pin on the socket to pins in the rows. If anything is wrong, please contact me via Discord DM or email and I'll work with you to take care of the issue.
+
 ### Step 1: Diodes
 #### Estimated Time: 2-3 hours
 [This is a really good video on how to solder smd diodes](https://youtu.be/Jpj3tilIaik?t=187). I recommend you watch this before soldering.
