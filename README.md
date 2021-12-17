@@ -11,6 +11,8 @@ BOP stands for Big Ortho Project, a 6 row by 20 column ortholinear keyboard runn
 * Various Pictures of the Prototype boards, also shown below.
 * QMK Hex and firmware coming soontm
 
+**Open Sourced PCB Files are for PERSONAL use only. Use for Commercial purposes without written permission is strictly prohibited.**
+
 ### Pictures
 
 ![Image of BOP](https://i.imgur.com/mEWmMgv.jpg)
