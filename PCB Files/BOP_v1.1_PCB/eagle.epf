@@ -1,0 +1,28 @@
+[Eagle]
+Version="09 06 02"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/Components.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/Controller.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/Hardware.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/Headers.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/ICs.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/Keyboard.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/LCD.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/LED.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/MCU.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/eagle_libs-master/USB.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/teensy-libs/teensy2.lbr"
+UsedLibrary="C:/Users/orang/Documents/EAGLE/libraries/teensy-libs/teensypp.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
